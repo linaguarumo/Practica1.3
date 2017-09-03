@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mi Calculadora LGS</string>
+    <string name="operaciones">0</string>
+    <string name="resultados">Resultado</string>
+</resources>
